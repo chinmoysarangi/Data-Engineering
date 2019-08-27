@@ -39,3 +39,5 @@ when is the busiest time of the taxi trips. what is the busiest day of the week.
 Prof Schulz email: f.schulz@gmx.de
 
 MongoDB Command line: mongod --dbpath "C:\Program Files\MongoDB\Server\4.0\data\db"
+
+Edit 28.08.2019: Edit Line
