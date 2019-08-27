@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=djfnjtYB2co
+
+https://www.kaggle.com/kerneler/starter-tlc-trip-record-data-029ff9b7-4
+
+https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4
+
+https://pydatascience.org/category/bokeh/
+
+http://zetcode.com/python/pymongo/
+
+https://www.w3schools.com/python/python_mongodb_query.asp
+
+https://www.quora.com/How-can-I-import-a-CSV-file-data-to-MongoDB-using-Python-Flask
+
+https://api.mongodb.com/python/current/tutorial.html
+
+https://docs.mongodb.com/manual/reference/operator/aggregation/abs/
+
+https://www.youtube.com/watch?v=XDAnFZqJDvI
+
+https://www.youtube.com/watch?v=BjlQdOK3n5w -- uses NYC data and bokeh
+
+http://datashader.org/topics/nyc_taxi.html -- Visualisation of the entire taxi data with new york maps
+
+https://www.kaggle.com/hanriver0618/nyc-taxi-data-exploration-visualization -- kaggle project of NYC trip data
+
+https://michaeljsanders.com/2017/04/17/python-vlookup.html
+
+Questions:
+
+Can sample data be utilised for uploading and querying on Mongodb?
+
+How much of the data has to be considered, one month or the entire year or for all the 10 years on NYC Trip data. - Not of entire year. The pipeline can be designed to show only one type of taxi.
+
+It is okay not to use docker since it consumes a lot of system resources. Also, kafka is not required since it is static data that is being used for the project.
+
+when is the busiest time of the taxi trips. what is the busiest day of the week.
+
+Prof Schulz email: f.schulz@gmx.de
+
+MongoDB Command line: mongod --dbpath "C:\Program Files\MongoDB\Server\4.0\data\db"
