@@ -26,6 +26,8 @@ https://www.kaggle.com/hanriver0618/nyc-taxi-data-exploration-visualization -- k
 
 https://michaeljsanders.com/2017/04/17/python-vlookup.html
 
+https://gis.stackexchange.com/questions/262505/python-cant-read-shapefile -- link to working on geopandas
+
 Questions:
 
 Can sample data be utilised for uploading and querying on Mongodb?
