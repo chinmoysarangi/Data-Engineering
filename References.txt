@@ -30,6 +30,8 @@ link to working on geopandas-- https://gis.stackexchange.com/questions/262505/py
 
 Data Analysis and Map-Reduce with mongoDB and pymongo -- https://av.tib.eu/media/20068
 
+https://medium.com/@jiaminhan/looking-through-the-taxi-meter-analysis-of-the-nyc-green-taxi-data-c1dbe5619afe
+
 Questions:
 
 Can sample data be utilised for uploading and querying on Mongodb?
