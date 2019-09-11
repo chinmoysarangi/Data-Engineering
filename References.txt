@@ -32,6 +32,8 @@ Data Analysis and Map-Reduce with mongoDB and pymongo -- https://av.tib.eu/media
 
 https://medium.com/@jiaminhan/looking-through-the-taxi-meter-analysis-of-the-nyc-green-taxi-data-c1dbe5619afe
 
+https://github.com/JiaminHan/nyc_greentaxi/blob/master/analysis.ipynb
+
 Questions:
 
 Can sample data be utilised for uploading and querying on Mongodb?
