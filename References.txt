@@ -26,7 +26,9 @@ https://www.kaggle.com/hanriver0618/nyc-taxi-data-exploration-visualization -- k
 
 https://michaeljsanders.com/2017/04/17/python-vlookup.html
 
-https://gis.stackexchange.com/questions/262505/python-cant-read-shapefile -- link to working on geopandas
+link to working on geopandas-- https://gis.stackexchange.com/questions/262505/python-cant-read-shapefile
+
+Data Analysis and Map-Reduce with mongoDB and pymongo -- https://av.tib.eu/media/20068
 
 Questions:
 
