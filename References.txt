@@ -34,6 +34,12 @@ https://medium.com/@jiaminhan/looking-through-the-taxi-meter-analysis-of-the-nyc
 
 https://github.com/JiaminHan/nyc_greentaxi/blob/master/analysis.ipynb
 
+https://stackoverflow.com/questions/25888396/how-to-get-latitude-longitude-with-python
+
+https://developers.google.com/maps/documentation/javascript/get-api-key
+
+https://developers.google.com/maps/documentation/geocoding/intro#RegionCodes
+
 Questions:
 
 Can sample data be utilised for uploading and querying on Mongodb?
