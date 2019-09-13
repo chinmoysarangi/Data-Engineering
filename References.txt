@@ -40,6 +40,10 @@ https://developers.google.com/maps/documentation/javascript/get-api-key
 
 https://developers.google.com/maps/documentation/geocoding/intro#RegionCodes
 
+https://docs.scipy.org/doc/numpy-1.13.0/reference/arrays.datetime.html
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
+
 Questions:
 
 Can sample data be utilised for uploading and querying on Mongodb?
