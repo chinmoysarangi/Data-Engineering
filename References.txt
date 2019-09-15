@@ -44,6 +44,8 @@ https://docs.scipy.org/doc/numpy-1.13.0/reference/arrays.datetime.html
 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
 
+https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5
+
 Questions:
 
 Can sample data be utilised for uploading and querying on Mongodb?
