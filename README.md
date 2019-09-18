@@ -6,4 +6,6 @@ The dataset used here is from NYC Taxi Trips dataset which can be found here: ht
 
 It contains Jupyter notebooks for Pick-up and drop-offs and Geomapping using Python Bokeh library.
 
+Visualizations have been achieved via both Python Bokeh and Datashader libraries.
+
 Also contains our Project Report and Presentation.
